@@ -1,0 +1,153 @@
+2025-02-07 16:03:09,297 - INFO: Halaman berhasil dimuat
+2025-02-07 16:03:10,649 - INFO: Tombol 'Lokasi Pangkalan LPG 3 Kg' diklik.
+2025-02-07 16:03:12,651 - ERROR: Error utama: name 'location' is not defined
+2025-02-07 16:08:18,852 - INFO: Halaman berhasil dimuat
+2025-02-07 16:08:20,248 - INFO: Tombol 'Lokasi Pangkalan LPG 3 Kg' diklik.
+2025-02-07 16:08:22,250 - INFO: Memilih Provinsi: JAWA BARAT
+2025-02-07 16:08:31,123 - INFO: Memilih Kab/Kota: KOTA BANDUNG
+2025-02-07 16:08:39,939 - INFO: Memilih Kecamatan: COBLONG
+2025-02-07 16:08:48,744 - INFO: Memilih Kelurahan: DAGO
+2025-02-07 16:10:00,993 - INFO: Container merchant ditemukan
+2025-02-07 16:10:03,040 - INFO: Jumlah merchant terdeteksi: 25
+2025-02-07 16:10:06,085 - INFO: Jumlah merchant terdeteksi: 45
+2025-02-07 16:10:09,128 - INFO: Jumlah merchant terdeteksi: 59
+2025-02-07 16:10:12,188 - INFO: Jumlah merchant terdeteksi: 59
+2025-02-07 16:10:15,255 - INFO: Jumlah merchant terdeteksi: 59
+2025-02-07 16:10:18,328 - INFO: Jumlah merchant terdeteksi: 59
+2025-02-07 16:10:19,340 - INFO: Jumlah merchant ditemukan: 59
+2025-02-07 16:10:25,152 - INFO: URL Maps: https://www.google.com/maps/dir/?api=1&origin=-6.2257652,106.8289113&destination=-6.868881,107.620868&travelmode=driving
+2025-02-07 16:10:25,154 - INFO: Koordinat ditemukan: -6.868881, 107.620868
+2025-02-07 16:10:26,236 - INFO: Berhasil scrape merchant:  - Pelajari dasar hukum penggunaan LPG 3 Kg yang mendukung distribusi subsidi tepat sasaran. - Koordinat: -6.868881, 107.620868
+2025-02-07 16:10:30,600 - INFO: URL Maps: https://www.google.com/maps/dir/?api=1&origin=-6.2257652,106.8289113&destination=-6.868881,107.620868&travelmode=driving
+2025-02-07 16:10:30,601 - INFO: Koordinat ditemukan: -6.868881, 107.620868
+2025-02-07 16:10:31,671 - INFO: Berhasil scrape merchant: 340135704745006 - 34.40122 - Koordinat: -6.868881, 107.620868
+2025-02-07 16:10:31,720 - INFO: Skip merchant duplikat: 340135704745006
+2025-02-07 16:10:31,750 - INFO: Skip merchant duplikat: 340135704745006
+2025-02-07 16:10:37,104 - INFO: URL Maps: https://www.google.com/maps/dir/?api=1&origin=-6.2257652,106.8289113&destination=-6.868881,107.620868&travelmode=driving
+2025-02-07 16:10:37,105 - INFO: Koordinat ditemukan: -6.868881, 107.620868
+2025-02-07 16:10:38,190 - INFO: Berhasil scrape merchant: 340135747351002 - ANDRIYANA - Koordinat: -6.868881, 107.620868
+2025-02-07 16:10:38,223 - INFO: Skip merchant duplikat: 340135747351002
+2025-02-07 16:10:42,727 - INFO: URL Maps: https://www.google.com/maps/dir/?api=1&origin=-6.2257652,106.8289113&destination=-6.868881,107.620868&travelmode=driving
+2025-02-07 16:10:42,728 - INFO: Koordinat ditemukan: -6.868881, 107.620868
+2025-02-07 16:10:43,823 - INFO: Berhasil scrape merchant: 340135941190028 - ASEP SUTISNA - Koordinat: -6.868881, 107.620868
+2025-02-07 16:10:43,858 - INFO: Skip merchant duplikat: 340135941190028
+2025-02-07 16:10:48,310 - INFO: URL Maps: https://www.google.com/maps/dir/?api=1&origin=-6.2257652,106.8289113&destination=-6.868881,107.620868&travelmode=driving
+2025-02-07 16:10:48,311 - INFO: Koordinat ditemukan: -6.868881, 107.620868
+2025-02-07 16:10:49,392 - INFO: Berhasil scrape merchant: 340135704745021 - DIKI DANIANSYAH - Koordinat: -6.868881, 107.620868
+2025-02-07 16:10:49,436 - INFO: Skip merchant duplikat: 340135704745021
+2025-02-07 16:10:55,025 - INFO: URL Maps: https://www.google.com/maps/dir/?api=1&origin=-6.2257652,106.8289113&destination=-6.868881,107.620868&travelmode=driving
+2025-02-07 16:10:55,026 - INFO: Koordinat ditemukan: -6.868881, 107.620868
+2025-02-07 16:10:56,093 - INFO: Berhasil scrape merchant: 340135704745025 - DIMAN BURHANUDIN - Koordinat: -6.868881, 107.620868
+2025-02-07 16:10:56,124 - INFO: Skip merchant duplikat: 340135704745025
+2025-02-07 16:11:01,172 - INFO: URL Maps: https://www.google.com/maps/dir/?api=1&origin=-6.2257652,106.8289113&destination=-6.868881,107.620868&travelmode=driving
+2025-02-07 16:11:01,174 - INFO: Koordinat ditemukan: -6.868881, 107.620868
+2025-02-07 16:11:02,256 - INFO: Berhasil scrape merchant: 340135705875004 - EDI HIDAYAT - Koordinat: -6.868881, 107.620868
+2025-02-07 16:11:02,289 - INFO: Skip merchant duplikat: 340135705875004
+2025-02-07 16:11:06,868 - INFO: URL Maps: https://www.google.com/maps/dir/?api=1&origin=-6.2257652,106.8289113&destination=-6.868881,107.620868&travelmode=driving
+2025-02-07 16:11:06,868 - INFO: Koordinat ditemukan: -6.868881, 107.620868
+2025-02-07 16:11:07,944 - INFO: Berhasil scrape merchant: 3401351073271008 - EKA ARMAND BEKTI - Koordinat: -6.868881, 107.620868
+2025-02-07 16:11:07,975 - INFO: Skip merchant duplikat: 3401351073271008
+2025-02-07 16:11:13,511 - INFO: URL Maps: https://www.google.com/maps/dir/?api=1&origin=-6.2257652,106.8289113&destination=-6.868881,107.620868&travelmode=driving
+2025-02-07 16:11:13,512 - INFO: Koordinat ditemukan: -6.868881, 107.620868
+2025-02-07 16:11:14,592 - INFO: Berhasil scrape merchant: 340135794097019 - ENA - Koordinat: -6.868881, 107.620868
+2025-02-07 16:11:14,622 - INFO: Skip merchant duplikat: 340135794097019
+2025-02-07 16:11:19,699 - INFO: URL Maps: https://www.google.com/maps/dir/?api=1&origin=-6.2257652,106.8289113&destination=-6.868881,107.620868&travelmode=driving
+2025-02-07 16:11:19,700 - INFO: Koordinat ditemukan: -6.868881, 107.620868
+2025-02-07 16:11:20,789 - INFO: Berhasil scrape merchant: 340135747351021 - HARYANA - Koordinat: -6.868881, 107.620868
+2025-02-07 16:11:20,824 - INFO: Skip merchant duplikat: 340135747351021
+2025-02-07 16:11:25,737 - INFO: URL Maps: https://www.google.com/maps/dir/?api=1&origin=-6.2257652,106.8289113&destination=-6.868881,107.620868&travelmode=driving
+2025-02-07 16:11:25,738 - INFO: Koordinat ditemukan: -6.868881, 107.620868
+2025-02-07 16:11:26,822 - INFO: Berhasil scrape merchant: 340135748285404 - HEPPY PRAPYTHA SYARIEF - Koordinat: -6.868881, 107.620868
+2025-02-07 16:11:26,850 - INFO: Skip merchant duplikat: 340135748285404
+2025-02-07 16:11:31,901 - INFO: URL Maps: https://www.google.com/maps/dir/?api=1&origin=-6.2257652,106.8289113&destination=-6.868881,107.620868&travelmode=driving
+2025-02-07 16:11:31,902 - INFO: Koordinat ditemukan: -6.868881, 107.620868
+2025-02-07 16:11:32,977 - INFO: Berhasil scrape merchant: 340135704745026 - HOLIS SODIN - Koordinat: -6.868881, 107.620868
+2025-02-07 16:11:33,021 - INFO: Skip merchant duplikat: 340135704745026
+2025-02-07 16:11:39,124 - INFO: URL Maps: https://www.google.com/maps/dir/?api=1&origin=-6.2257652,106.8289113&destination=-6.868881,107.620868&travelmode=driving
+2025-02-07 16:11:39,125 - INFO: Koordinat ditemukan: -6.868881, 107.620868
+2025-02-07 16:11:40,202 - INFO: Berhasil scrape merchant: 340135766755046 - IIS SOPIANTI - Koordinat: -6.868881, 107.620868
+2025-02-07 16:11:40,232 - INFO: Skip merchant duplikat: 340135766755046
+2025-02-07 16:11:45,447 - INFO: URL Maps: https://www.google.com/maps/dir/?api=1&origin=-6.2257652,106.8289113&destination=-6.868881,107.620868&travelmode=driving
+2025-02-07 16:11:45,448 - INFO: Koordinat ditemukan: -6.868881, 107.620868
+2025-02-07 16:11:46,540 - INFO: Berhasil scrape merchant: 340135706848016 - J NURYAT - Koordinat: -6.868881, 107.620868
+2025-02-07 16:11:46,570 - INFO: Skip merchant duplikat: 340135706848016
+2025-02-07 16:11:51,948 - INFO: URL Maps: https://www.google.com/maps/dir/?api=1&origin=-6.2257652,106.8289113&destination=-6.868881,107.620868&travelmode=driving
+2025-02-07 16:11:51,949 - INFO: Koordinat ditemukan: -6.868881, 107.620868
+2025-02-07 16:11:53,044 - INFO: Berhasil scrape merchant: 340285941190004 - MAMAN S - Koordinat: -6.868881, 107.620868
+2025-02-07 16:11:53,080 - INFO: Skip merchant duplikat: 340285941190004
+2025-02-07 16:11:59,144 - INFO: URL Maps: https://www.google.com/maps/dir/?api=1&origin=-6.2257652,106.8289113&destination=-6.868881,107.620868&travelmode=driving
+2025-02-07 16:11:59,145 - INFO: Koordinat ditemukan: -6.868881, 107.620868
+2025-02-07 16:12:00,230 - INFO: Berhasil scrape merchant: 340135941190005 - MULYADI - Koordinat: -6.868881, 107.620868
+2025-02-07 16:12:00,261 - INFO: Skip merchant duplikat: 340135941190005
+2025-02-07 16:12:06,732 - INFO: URL Maps: https://www.google.com/maps/dir/?api=1&origin=-6.2257652,106.8289113&destination=-6.868881,107.620868&travelmode=driving
+2025-02-07 16:12:06,734 - INFO: Koordinat ditemukan: -6.868881, 107.620868
+2025-02-07 16:12:07,816 - INFO: Berhasil scrape merchant: 340135941190006 - NEIDA WIDIANA SYAFITRI - Koordinat: -6.868881, 107.620868
+2025-02-07 16:12:07,852 - INFO: Skip merchant duplikat: 340135941190006
+2025-02-07 16:12:13,129 - INFO: URL Maps: https://www.google.com/maps/dir/?api=1&origin=-6.2257652,106.8289113&destination=-6.868881,107.620868&travelmode=driving
+2025-02-07 16:12:13,130 - INFO: Koordinat ditemukan: -6.868881, 107.620868
+2025-02-07 16:12:14,204 - INFO: Berhasil scrape merchant: 340135747351034 - NESI RASIMAN - Koordinat: -6.868881, 107.620868
+2025-02-07 16:12:14,233 - INFO: Skip merchant duplikat: 340135747351034
+2025-02-07 16:12:18,814 - INFO: URL Maps: https://www.google.com/maps/dir/?api=1&origin=-6.2257652,106.8289113&destination=-6.868881,107.620868&travelmode=driving
+2025-02-07 16:12:18,816 - INFO: Koordinat ditemukan: -6.868881, 107.620868
+2025-02-07 16:12:19,898 - INFO: Berhasil scrape merchant: 340135750774026 - PESTARIA SIREGAR - Koordinat: -6.868881, 107.620868
+2025-02-07 16:12:19,932 - INFO: Skip merchant duplikat: 340135750774026
+2025-02-07 16:12:26,221 - INFO: URL Maps: https://www.google.com/maps/dir/?api=1&origin=-6.2257652,106.8289113&destination=-6.868881,107.620868&travelmode=driving
+2025-02-07 16:12:26,222 - INFO: Koordinat ditemukan: -6.868881, 107.620868
+2025-02-07 16:12:27,288 - INFO: Berhasil scrape merchant: 340134747351047 - PUTRA DEAN ADRIANSYAH - Koordinat: -6.868881, 107.620868
+2025-02-07 16:12:27,318 - INFO: Skip merchant duplikat: 340134747351047
+2025-02-07 16:12:32,074 - INFO: URL Maps: https://www.google.com/maps/dir/?api=1&origin=-6.2257652,106.8289113&destination=-6.868881,107.620868&travelmode=driving
+2025-02-07 16:12:32,075 - INFO: Koordinat ditemukan: -6.868881, 107.620868
+2025-02-07 16:12:33,160 - INFO: Berhasil scrape merchant: 340135747351043 - REFFITA - Koordinat: -6.868881, 107.620868
+2025-02-07 16:12:33,188 - INFO: Skip merchant duplikat: 340135747351043
+2025-02-07 16:12:38,983 - INFO: URL Maps: https://www.google.com/maps/dir/?api=1&origin=-6.2257652,106.8289113&destination=-6.868881,107.620868&travelmode=driving
+2025-02-07 16:12:38,985 - INFO: Koordinat ditemukan: -6.868881, 107.620868
+2025-02-07 16:12:40,081 - INFO: Berhasil scrape merchant: 340135747351044 - RIFFALDI RAHMAT - Koordinat: -6.868881, 107.620868
+2025-02-07 16:12:40,111 - INFO: Skip merchant duplikat: 340135747351044
+2025-02-07 16:12:46,106 - INFO: URL Maps: https://www.google.com/maps/dir/?api=1&origin=-6.2257652,106.8289113&destination=-6.868881,107.620868&travelmode=driving
+2025-02-07 16:12:46,107 - INFO: Koordinat ditemukan: -6.868881, 107.620868
+2025-02-07 16:12:47,199 - INFO: Berhasil scrape merchant: 340135766719002 - SAMIYATUN - Koordinat: -6.868881, 107.620868
+2025-02-07 16:12:47,229 - INFO: Skip merchant duplikat: 340135766719002
+2025-02-07 16:12:52,530 - INFO: URL Maps: https://www.google.com/maps/dir/?api=1&origin=-6.2257652,106.8289113&destination=-6.868881,107.620868&travelmode=driving
+2025-02-07 16:12:52,532 - INFO: Koordinat ditemukan: -6.868881, 107.620868
+2025-02-07 16:12:53,602 - INFO: Berhasil scrape merchant: 340135946604016 - SORRY HUTABARAT - Koordinat: -6.868881, 107.620868
+2025-02-07 16:12:53,653 - INFO: Skip merchant duplikat: 340135946604016
+2025-02-07 16:12:59,137 - INFO: URL Maps: https://www.google.com/maps/dir/?api=1&origin=-6.2257652,106.8289113&destination=-6.868881,107.620868&travelmode=driving
+2025-02-07 16:12:59,138 - INFO: Koordinat ditemukan: -6.868881, 107.620868
+2025-02-07 16:13:00,203 - INFO: Berhasil scrape merchant: 340135704745010 - TB.DAGO - Koordinat: -6.868881, 107.620868
+2025-02-07 16:13:00,275 - INFO: Skip merchant duplikat: 340135704745010
+2025-02-07 16:13:05,986 - INFO: URL Maps: https://www.google.com/maps/dir/?api=1&origin=-6.2257652,106.8289113&destination=-6.868881,107.620868&travelmode=driving
+2025-02-07 16:13:05,987 - INFO: Koordinat ditemukan: -6.868881, 107.620868
+2025-02-07 16:13:07,062 - INFO: Berhasil scrape merchant: 340135756133011 - TOKO BUNGSU - Koordinat: -6.868881, 107.620868
+2025-02-07 16:13:07,089 - INFO: Skip merchant duplikat: 340135756133011
+2025-02-07 16:13:11,546 - INFO: URL Maps: https://www.google.com/maps/dir/?api=1&origin=-6.2257652,106.8289113&destination=-6.868881,107.620868&travelmode=driving
+2025-02-07 16:13:11,548 - INFO: Koordinat ditemukan: -6.868881, 107.620868
+2025-02-07 16:13:12,630 - INFO: Berhasil scrape merchant: 340135704745011 - YENI - Koordinat: -6.868881, 107.620868
+2025-02-07 16:13:12,676 - INFO: Skip merchant duplikat: 340135704745011
+2025-02-07 16:13:18,366 - INFO: URL Maps: https://www.google.com/maps/dir/?api=1&origin=-6.2257652,106.8289113&destination=-6.868881,107.620868&travelmode=driving
+2025-02-07 16:13:18,367 - INFO: Koordinat ditemukan: -6.868881, 107.620868
+2025-02-07 16:13:19,435 - INFO: Berhasil scrape merchant: 340135766755035 - ZAINUDDIN SAMSURI - Koordinat: -6.868881, 107.620868
+2025-02-07 16:13:19,464 - INFO: Skip merchant duplikat: 340135766755035
+2025-02-07 16:13:19,518 - INFO: Berhasil menyimpan 28 merchant ke lpg_merchants_20250207_161319.csv
+2025-02-07 16:31:25,396 - ERROR: Error membaca file CSV: 'Provinsi'
+2025-02-07 16:35:01,640 - ERROR: Error membaca file CSV: [Errno 2] No such file or directory: 'GIS_Proj/loc_lpg.csv'
+2025-02-07 16:35:01,664 - ERROR: Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Temp\ipykernel_15400\204539956.py", line 14, in parse_locations_from_csv
+    df = pd.read_csv(csv_path)
+         ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\ProgramData\anaconda3\Lib\site-packages\pandas\io\parsers\readers.py", line 1026, in read_csv
+    return _read(filepath_or_buffer, kwds)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\ProgramData\anaconda3\Lib\site-packages\pandas\io\parsers\readers.py", line 620, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\ProgramData\anaconda3\Lib\site-packages\pandas\io\parsers\readers.py", line 1620, in __init__
+    self._engine = self._make_engine(f, self.engine)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\ProgramData\anaconda3\Lib\site-packages\pandas\io\parsers\readers.py", line 1880, in _make_engine
+    self.handles = get_handle(
+                   ^^^^^^^^^^^
+  File "C:\ProgramData\anaconda3\Lib\site-packages\pandas\io\common.py", line 873, in get_handle
+    handle = open(
+             ^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'GIS_Proj/loc_lpg.csv'
+
